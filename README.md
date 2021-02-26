@@ -2,7 +2,7 @@
 
 Icons and other media for re-use in README.md
 
-tech-icons
+## tech-icons
 
 <img src="https://raw.githubusercontent.com/k-willowhawk/media/main/tech-icons/bash.jpg" width="24" height="24"> Bash
 `<img src="https://raw.githubusercontent.com/k-willowhawk/media/main/tech-icons/bash.jpg" width="24" height="24">`

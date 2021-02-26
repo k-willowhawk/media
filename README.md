@@ -4,8 +4,8 @@ Icons and other media for re-use in README.md
 
 tech-icons
 
-![bash](../tech-icons/bash.jpg?raw=true)
-![ansible](../tech-icons/anisble.jpg?raw=true)
-![virtualbox](..tech-icons/virtualbox.png=?true)
-![qemu](..tech-icons/qemu.jpg=?true)
-![libvirt](..tech-icons/libvirt.png=?true)
+![bash](https://raw.githubusercontent.com/k-willowhawk/media/main/tech-icons/bash.jpg)
+![ansible](https://raw.githubusercontent.com/k-willowhawk/media/main/tech-icons/ansible.png)
+![virtualbox](https://raw.githubusercontent.com/k-willowhawk/media/main/tech-icons/virtualbox.png)
+![qemu](https://raw.githubusercontent.com/k-willowhawk/media/main/tech-icons/qemu.jpg)
+![libvirt](https://raw.githubusercontent.com/k-willowhawk/media/main/tech-icons/libvirt.png)

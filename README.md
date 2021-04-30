@@ -4,6 +4,9 @@ Icons and other media for re-use in README.md
 
 ## tech-icons
 
+<img src="https://raw.githubusercontent.com/k-willowhawk/media/main/tech-icons/stateless.jpg" width="24" height="24"> Stateless
+`<img src="https://raw.githubusercontent.com/k-willowhawk/media/main/tech-icons/stateless.jpg" width="24" height="24">`
+
 <img src="https://raw.githubusercontent.com/k-willowhawk/media/main/tech-icons/bash.jpg" width="24" height="24"> Bash
 `<img src="https://raw.githubusercontent.com/k-willowhawk/media/main/tech-icons/bash.jpg" width="24" height="24">`
 
